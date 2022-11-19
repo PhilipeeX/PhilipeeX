@@ -11,6 +11,7 @@ class Programmer
     <a href="https://www.linkedin.com/in/philipe-rodrigues-3b3884226/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85847179/202844798-f582e3af-d76e-4e6a-820a-c5691396ccd3.png" alt="PhilipeeX" height="30" width="40" /></a>
     <a href="https://www.instagram.com/fancyc0der/?igshid=YWJhMjlhZTc%3D" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85847179/202844980-72b6caf8-4720-48b0-b3be-e376697910db.png" alt="Instagram Philipe" height="30" width="40"/></a>
     <a href="https://exercism.org/profiles/PhilipeeX" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85847179/202845821-d54c41e1-c9a1-4bae-8f38-99a24aeb3fdd.png" alt="Exercism Philipe" height="30" width="40"/></a>  
+<a href="https://discordapp.com/users/Philipe#8116" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85847179/202846773-fcb802c5-48b2-4263-afc2-eae56dc3da8c.png" alt="Discord Philipe" height="30" width="40"/></a>
 </p>
 
 ---
