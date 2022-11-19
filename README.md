@@ -2,7 +2,7 @@
 
 You could know more about me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipe-rodrigues-3b3884226/)
+[![LinkedIn](https://user-images.githubusercontent.com/85847179/202844798-f582e3af-d76e-4e6a-820a-c5691396ccd3.png)](https://www.linkedin.com/in/philipe-rodrigues-3b3884226/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fancyc0der/?igshid=YWJhMjlhZTc%3D)
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/PhilipeeX)
 ### Languages and Tools:
