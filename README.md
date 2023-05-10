@@ -1,27 +1,15 @@
-# Hi there! I'm Philipe
+# 💫 About Me:
+Currently, I am studying Ruby on Rails.
 
-```ruby 
-class Programmer
 
-	def initialize() 
-```
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Philipe#8116) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fancyc0der) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philipe-rodrigues-3b3884226) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21519574) 
 
-<p align="left">
-    <h3 align="left">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/philipe-rodrigues-3b3884226/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85847179/202844798-f582e3af-d76e-4e6a-820a-c5691396ccd3.png" alt="PhilipeeX" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/fancyc0der/?igshid=YWJhMjlhZTc%3D" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85847179/202844980-72b6caf8-4720-48b0-b3be-e376697910db.png" alt="Instagram Philipe" height="30" width="40"/></a>
-    <a href="https://exercism.org/profiles/PhilipeeX" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85847179/202845821-d54c41e1-c9a1-4bae-8f38-99a24aeb3fdd.png" alt="Exercism Philipe" height="30" width="40"/></a>  
-<a href="https://discordapp.com/users/Philipe#8116" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85847179/202846773-fcb802c5-48b2-4263-afc2-eae56dc3da8c.png" alt="Discord Philipe" height="30" width="40"/></a>
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PhilipeeX&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PhilipeeX&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipeeX&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PhilipeeX" alt="PhilipeeX" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-        <h4 align="left"></h4>
-        <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-        <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
-    </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
