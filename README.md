@@ -32,12 +32,21 @@ Currently, I am studying Ruby on Rails.
         </tr>
 	 <tr>
 		<td>2</td>
-            	<td><a href="https://github.com/PhilipeeX/Ruby_on_rails_5x_segunda_aplicacao"><b>Ruby on Rails 5 aplicação</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/Ruby_on_rails_5x_segunda_aplicacao"><b>Ruby on Rails 5 segunda aplicação</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Ruby_on_rails_5x_segunda_aplicacao" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Philipeex/Ruby_on_rails_5x_segunda_aplicacao" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/Ruby_on_rails_5x_segunda_aplicacao" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Ruby_on_rails_5x_segunda_aplicacao" /></td>
+        </tr>
+	<tr>
+		<td>3</td>
+            	<td><a href="https://github.com/PhilipeeX/Ruby_on_rails_5x_segunda_aplicacao"><b>RoR 5 Agenda de contatos</b></a></td>
+		<td>Developer</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Contact_list" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/Philipeex/Contact_list" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/Contact_list" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Contact_list" /></td>
         </tr>
     </tbody>
 </table>
