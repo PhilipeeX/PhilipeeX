@@ -41,7 +41,7 @@ Currently, I am studying Ruby on Rails.
         </tr>
 	<tr>
 		<td>3</td>
-            	<td><a href="https://github.com/PhilipeeX/Contact_list"><b>RoR 5 Agenda de contatos</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/Contact_list"><b>Rails Agenda de contatos</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Contact_list" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Philipeex/Contact_list" /></td>
