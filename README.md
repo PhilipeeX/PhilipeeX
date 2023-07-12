@@ -32,7 +32,7 @@ Currently, I am studying Ruby on Rails.
         </tr>
 	 <tr>
 		<td>2</td>
-            	<td><a href="https://github.com/PhilipeeX/Ruby_on_rails_5x_segunda_aplicacao"><b>Ruby on Rails 5 segunda aplicação</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/Ruby_on_rails_5x_segunda_aplicacao"><b>Rails 5 questoes de concursos</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Ruby_on_rails_5x_segunda_aplicacao" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Philipeex/Ruby_on_rails_5x_segunda_aplicacao" /></td>
