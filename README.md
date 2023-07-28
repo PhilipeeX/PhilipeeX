@@ -21,14 +21,14 @@ Currently, I am studying Ruby on Rails.
         </tr>
     </thead>
     <tbody>
-	<tr>
+    	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/PhilipeeX/Curso-completo-de-Ruby"><b>Curso completo de ruby</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/Biblio-Tech"><b>Editora de livros</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Curso-completo-de-Ruby" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/PhilipeeX/Curso-completo-de-Ruby" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/PhilipeeX/Curso-completo-de-Ruby" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Curso-completo-de-Ruby" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Biblio-Tech" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/Philipeex/Biblio-Tech" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/Biblio-Tech" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Biblio-Tech" /></td>
         </tr>
 	 <tr>
 		<td>2</td>
@@ -47,6 +47,15 @@ Currently, I am studying Ruby on Rails.
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/Philipeex/Contact_list" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/Contact_list" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Contact_list" /></td>
+        </tr>
+	<tr>
+		<td>4</td>
+            	<td><a href="https://github.com/PhilipeeX/Curso-completo-de-Ruby"><b>Curso completo de ruby</b></a></td>
+		<td>Developer</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Curso-completo-de-Ruby" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/PhilipeeX/Curso-completo-de-Ruby" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/PhilipeeX/Curso-completo-de-Ruby" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Curso-completo-de-Ruby" /></td>
         </tr>
     </tbody>
 </table>
