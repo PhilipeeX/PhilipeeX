@@ -32,12 +32,12 @@ Currently, I am studying Ruby on Rails.
         </tr>
 	 <tr>
 		<td>2</td>
-            	<td><a href="https://github.com/PhilipeeX/Ruby_on_rails_5x_segunda_aplicacao"><b>Rails 5 questoes de concursos</b></a></td>
-		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Ruby_on_rails_5x_segunda_aplicacao" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/Philipeex/Ruby_on_rails_5x_segunda_aplicacao" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/Ruby_on_rails_5x_segunda_aplicacao" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Ruby_on_rails_5x_segunda_aplicacao" /></td>
+            	<td><a href="https://github.com/desenvolvendo-me/ticket-event"><b>Rails 7x Ticket Event</b></a></td>
+		<td> Em equipe</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/desenvolvendo-me/ticket-event" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/desenvolvendo-me/ticket-event" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/desenvolvendo-me/ticket-event" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/desenvolvendo-me/ticket-event" /></td>
         </tr>
 	<tr>
 		<td>3</td>
