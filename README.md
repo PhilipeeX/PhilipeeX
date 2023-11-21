@@ -50,7 +50,7 @@ Currently, I am studying Ruby on Rails.
         </tr>
 	<tr>
 		<td>4</td>
-            	<td><a href="https://github.com/PhilipeeX/Curso-completo-de-Ruby"><b>Curso completo de ruby</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/Curso-completo-de-Ruby"><b>Ruby</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Curso-completo-de-Ruby" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/PhilipeeX/Curso-completo-de-Ruby" /></td>
