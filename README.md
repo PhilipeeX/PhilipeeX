@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I am studying Ruby on Rails.
+Currently, I am working with Ruby on Rails.
 
 
 ## 🌐 Socials:
