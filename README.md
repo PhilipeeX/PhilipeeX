@@ -35,12 +35,12 @@ https://devphilipe.onrender.com/
         </tr>
     	<tr>
 		<td>2</td>
-            	<td><a href="https://github.com/PhilipeeX/Biblio-Tech"><b>Editora de livros</b></a></td>
-		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Biblio-Tech?style=flat-square" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/philipeex/Biblio-Tech?style=flat-square" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/Biblio-Tech?style=flat-square" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Biblio-Tech?style=flat-square" /></td>
+            	<td><a href="https://github.com/PhilipeeX/Biblio-Tech"><b>Jedis Project</b></a></td>
+		<td>Teste Técnico</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/jedis-project?style=flat-square" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/philipeex/jedis-project?style=flat-square" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/jedis-project?style=flat-square" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/jedis-project?style=flat-square" /></td>
         </tr>
 	 <tr>
 		<td>3</td>
@@ -53,12 +53,12 @@ https://devphilipe.onrender.com/
         </tr>
 	<tr>
 		<td>4</td>
-            	<td><a href="https://github.com/PhilipeeX/Contact_list"><b>Rails Agenda de contatos</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/Biblio-Tech"><b>Editora de livros</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Contact_list?style=flat-square" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/Philipeex/Contact_list?style=flat-square" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/Contact_list?style=flat-square" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Contact_list?style=flat-square" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Biblio-Tech?style=flat-square" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/philipeex/Biblio-Tech?style=flat-square" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/Biblio-Tech?style=flat-square" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/PhilipeeX/Biblio-Tech?style=flat-square" /></td>
         </tr>
     </tbody>
 </table>
