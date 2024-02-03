@@ -35,7 +35,7 @@ https://devphilipe.onrender.com/
         </tr>
     	<tr>
 		<td>2</td>
-            	<td><a href="https://github.com/PhilipeeX/jedis-project"><b>Jedis Project</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/jedis-project?tab=readme-ov-file#jedis-project"><b>Jedis Project</b></a></td>
 		<td>Teste Técnico</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/jedis-project?style=flat-square" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/philipeex/jedis-project?style=flat-square" /></td>
