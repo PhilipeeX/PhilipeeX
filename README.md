@@ -3,7 +3,7 @@ Currently, I am working with Ruby on Rails.
 
 ## My portfolio link
 https://devphilipe.vercel.app/<br>
-<a href="https://devphilipe.vercel.app/">
+<a href="https://devphilipe.vercel.app/" target="_blank">
     <img src="https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D0%26deploymentId%3Ddpl_6Rn3G3YUiZDLxSSpy6ZQA4mxiNSc%26teamId%3Dphilipeex%26withStatus%3D1&w=640&q=75&dpl=dpl_2ku7RiUur9eLrJRs9agUXNpnhVa9" alt="Descrição da imagem" width="440px">
 </a>
 
