@@ -3,9 +3,6 @@ Currently, I am working with Ruby on Rails.
 
 ## My portfolio link
 https://devphilipe.vercel.app/<br>
-<a href="https://devphilipe.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D0%26deploymentId%3Ddpl_6Rn3G3YUiZDLxSSpy6ZQA4mxiNSc%26teamId%3Dphilipeex%26withStatus%3D1&w=640&q=75&dpl=dpl_2ku7RiUur9eLrJRs9agUXNpnhVa9" alt="Descrição da imagem" width="440px">
-</a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Y3GV8E9ZQW) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philipe-rodrigues-3b3884226) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21519574) [![wakatime](https://wakatime.com/badge/user/bbd7934c-a4c4-4b31-b008-4c6c2dd2da70.svg)](https://wakatime.com/@bbd7934c-a4c4-4b31-b008-4c6c2dd2da70)
@@ -28,16 +25,16 @@ https://devphilipe.vercel.app/<br>
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/desenvolvendo-me/applify"><b>Applify</b></a></td>
-		<td>Em equipe</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/desenvolvendo-me/applify?style=flat-square" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/desenvolvendo-me/applify?style=flat-square" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/desenvolvendo-me/applify?style=flat-square" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr-raw/desenvolvendo-me/applify?style=flat-square" /></td>
+            	<td><a href="https://github.com/PhilipeeX/kobana_project"><b>Kobana Teste</b></a></td>
+		<td>Teste Téc. integra API</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/PhilipeeX/kobana_project?style=flat-square" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/PhilipeeX/kobana_project?style=flat-square" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/PhilipeeX/kobana_project?style=flat-square" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr-raw/PhilipeeX/kobana_project?style=flat-square" /></td>
         </tr>
     	<tr>
 		<td>2</td>
-            	<td><a href="https://github.com/PhilipeeX/jedis-project?tab=readme-ov-file#jedis-project"><b>Jedis Project</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/jedis-project?tab=readme-ov-file#jedis-project"><b>Jedis Teste</b></a></td>
 		<td>Teste Técnico</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/jedis-project?style=flat-square" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/philipeex/jedis-project?style=flat-square" /></td>
@@ -56,7 +53,7 @@ https://devphilipe.vercel.app/<br>
 	<tr>
 		<td>4</td>
             	<td><a href="https://github.com/PhilipeeX/Biblio-Tech"><b>Editora de livros</b></a></td>
-		<td>Developer</td>
+		<td></td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/Biblio-Tech?style=flat-square" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/philipeex/Biblio-Tech?style=flat-square" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/Philipeex/Biblio-Tech?style=flat-square" /></td>
