@@ -24,7 +24,7 @@ Currently, I am working with Ruby on Rails.
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/PhilipeeX/kobana_project"><b>Kobana Teste</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/kobana_project"><b>Kobana</b></a></td>
 		<td>Teste Téc. integra API</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/PhilipeeX/kobana_project?style=flat-square" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/PhilipeeX/kobana_project?style=flat-square" /></td>
@@ -33,7 +33,7 @@ Currently, I am working with Ruby on Rails.
         </tr>
     	<tr>
 		<td>2</td>
-            	<td><a href="https://github.com/PhilipeeX/jedis-project?tab=readme-ov-file#jedis-project"><b>Jedis Teste</b></a></td>
+            	<td><a href="https://github.com/PhilipeeX/jedis-project?tab=readme-ov-file#jedis-project"><b>Jedis</b></a></td>
 		<td>Teste Técnico</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Philipeex/jedis-project?style=flat-square" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/philipeex/jedis-project?style=flat-square" /></td>
